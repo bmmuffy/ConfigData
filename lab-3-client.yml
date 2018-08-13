@@ -3,5 +3,5 @@ spring:
 ---
 spring:
   profiles: dev
-lucky-word: Irish, 'Rabbit's Foot' ,Serendipity
+lucky-word: Irish,Serendipity
 
